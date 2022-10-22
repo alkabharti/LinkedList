@@ -1,6 +1,6 @@
 # LinkedList
 
-Basic Structure of a Linked List :
+### Basic Structure of a Linked List :
 
 Like arrays, Linked List is a linear data structure. Unlike arrays, linked list elements are not stored at the contiguous location, the elements are linked using pointers.
 
