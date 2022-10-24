@@ -21,3 +21,15 @@ class LinkedList
 }
 ```
 
+
+### Initializing a List in Java
+
+List is an interface, and the instances of List can be created in the following ways:
+
+- List a = new ArrayList();
+- List b = new LinkedList();
+- List c = new Vector(); 
+- List d = new Stack(); 
+
+
+
