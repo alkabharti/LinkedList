@@ -31,6 +31,9 @@ List is an interface, and the instances of List can be created in the following 
 - List c = new Vector(); 
 - List d = new Stack(); 
 
+### Below are the following ways to initialize a list:
+
+### 1. Using List.add() method
 
 
 ```java
