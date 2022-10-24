@@ -68,6 +68,9 @@ public static void main(String[] args){
 
 ```
 
+- **Double Brace Initialization** can also be used to do the above work.
+
+
 
 
 
