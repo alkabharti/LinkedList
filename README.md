@@ -97,6 +97,15 @@ public static void main(String args[])
     System.out.println("Stack : " + stack.toString());
 }
 
+/*
+
+Output:
+ArrayList : [1, 3]
+LinkedList : [2, 4]
+Stack : [3, 1]
+
+*/
+
 ```
 
 
