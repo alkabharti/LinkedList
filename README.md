@@ -108,8 +108,16 @@ Stack : [3, 1]
 
 ```
 
+### 2. Using Arrays.asList()
 
+#### Creating Immutable List
+- **Arrays.asList()** creates an immutable list from an array. Hence it can be used to instantiate a list with an array.
 
+- Syntax:
+
+```java
+List<Integer> list=Arrays.asList(1, 2, 3);
+```
 
 
 
